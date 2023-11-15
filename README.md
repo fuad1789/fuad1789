@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad</h1>
 <h3 align="center">Crafting Engaging User Experiences with Passion and Precision</h3>
 
-- 🔭 I’m currently working on [EvTap (FindHome)](https://github.com/fuad1789/EvTap)
+- 🔭 I’m currently working on [PricePal (Track Price)](https://github.com/fuad1789/pricepal)
 
 - 🌱 I’m currently learning **Game development (as hobby)**
 
